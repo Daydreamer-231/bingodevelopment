@@ -1,2 +1,4 @@
-# Bingo Development
-The repository for bingo's website and his code files.
+# Website is work in progress
+We're very sorry, this website is not complete yet.
+Please if you'd like to support our project, join our discord server:
+https://dsc.gg/bingodev
